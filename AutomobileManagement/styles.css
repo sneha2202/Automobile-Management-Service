@@ -1,0 +1,55 @@
+.nav-item{
+    padding-left: 6em;
+}
+
+.nav-link{
+    color: #ffff;
+}
+
+.logo{
+    height: 4em;
+    width: 3em;
+}
+
+.navbar-nav{
+    margin-top: 2em;
+}
+
+.head1{
+    background-color: #066163;
+    text-align: center;
+    padding-top: 4em;
+    color: #F7F5F2;
+}
+
+.carousel{
+    padding-top: 3em;
+
+}
+
+.w-100 {
+    width: 100%!important;
+}
+
+.img1{
+    height:22em
+}
+
+
+.carousel-control-next, .carousel-control-prev {
+    
+    width: 31%;
+}
+
+.adminForm{
+    padding-left: 20%;
+    padding-top: 10%;
+    padding-right: 20%;
+
+}
+
+
+.form-control {
+    display: block;
+    width: 73%;
+}
